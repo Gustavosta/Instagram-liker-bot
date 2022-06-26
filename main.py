@@ -14,8 +14,8 @@ from random import randint, choice
 import sqlite3, logging, schedule
 
 
-USERNAME = "dalleuniverse"
-PASSWORD = "G91687278@"
+USERNAME = ""
+PASSWORD = ""
 INSTA_LOGIN_PAGE = "https://www.instagram.com/accounts/login/"
 INSTA_TAG_PAGE = 'https://www.instagram.com/explore/tags/'
 
