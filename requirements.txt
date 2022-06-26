@@ -1,0 +1,4 @@
+selenium
+pysqlite
+webdriver_manager
+schedule
